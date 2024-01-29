@@ -51,9 +51,9 @@ code .
         <summary>Unit Test Failed Logs </summary>
         
         ```bash
-        sasas@latitude-5491:~/Development/qaskills-free-guide/unit-test-challenge$ npm test
+        sasas@latitude-5491:~/Development/qaskills-challenge/unit-test-challenge$ npm test
 
-        > unit-test-challenge@1.0.0 test /home/sasas/Development/qaskills-free-guide/unit-test-challenge
+        > unit-test-challenge@1.0.0 test /home/sasas/Development/qaskills-challenge/unit-test-challenge
         > mocha
 
 
@@ -117,9 +117,9 @@ code .
         <summary>RestApi Test Failed Logs </summary>
         
         ```bash
-        sasas@latitude-5491:~/Development/qaskills-free-guide/rest-api-test-challenge$ npm test
+        sasas@latitude-5491:~/Development/qaskills-challenge/rest-api-test-challenge$ npm test
 
-        > rest-api-test-challenge@1.0.0 test /home/sasas/Development/qaskills-free-guide/rest-api-test-challenge
+        > rest-api-test-challenge@1.0.0 test /home/sasas/Development/qaskills-challenge/rest-api-test-challenge
         > mocha
 
 
@@ -205,7 +205,7 @@ Message:
 Hi QASkills,
 
 
- - I have completed challenge and pushed it to branch "challenge/firstNameLastName" (update branch name).
+ - I have completed challenge and pushed it to forked repo: https://github.com/sasastarcevic/qaskills-challenge (update repo url).
 
  - Add you cv as attachment.
 

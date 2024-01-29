@@ -44,7 +44,7 @@
     - Application is started below logo is visible
 
 ```bash
-sasas@latitude-5491:~/Development/qaskills-free-guide/fake-rest-api$ npx json-server db.json
+sasas@latitude-5491:~/Development/qaskills-challenge/fake-rest-api$ npx json-server db.json
 
   \{^_^}/ hi!
 
