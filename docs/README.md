@@ -25,9 +25,15 @@
 
 5. Go to url https://github.com/qaskills/qaskills-challenge and fork this repo:
     
+    - Create Github account: https://github.com/signup?source=login
+
     - Fork this repo: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#forking-a-repository
 
-    - Clone you newly forked repo: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
+    - Setup ssh for cloning via ssh: https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account#adding-a-new-ssh-key-to-your-account
+
+    - Clone via SSH you newly forked repo: https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo#cloning-your-forked-repository
+
+
 
 
 6. Start 'fake-rest-api' application:

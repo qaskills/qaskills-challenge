@@ -11,9 +11,16 @@
     - Unit Test Challenge
     - Rest Api Test Challenge
 
-3. Create new branch with command [read more](docs/create-branch.md)
+3. Create new branch on you forked branch with command [read more](docs/create-branch.md)
 ```
+cd qaskills-challenge
 git checkout -b challenge/firstNameLastName
+```
+
+Open this folder in Visual Studio Code:
+```
+cd qaskills-challenge
+code .
 ```
 
 ---
@@ -26,7 +33,7 @@ git checkout -b challenge/firstNameLastName
 
     - Write at least 5-7 test cases which are mandatory by your opinion
     - Each test case should be separated file and stored inside folder 'manual-test-challenge'
-    - You can use your template or one example provided by use
+    - You can use your template or one example provided by us
     - First test case is  [DFA-1 - Demo Frontend App is displayed](manual-test-challenge/DFA-1.md)
 
 ---
